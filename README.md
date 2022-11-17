@@ -1,4 +1,8 @@
 ### Hi there 👋
+This is Anne, working as a project engineer for 2 years. Currently being a student in Alpha Camp.
+### Goal in 2023
+---
+⚡Being a Back-End Developer
 
 <!--
 **cayangtuu/cayangtuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
