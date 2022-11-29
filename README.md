@@ -1,8 +1,15 @@
 ### Hi there 👋
-This is Anne, working as a project engineer for 2 years. Currently being a student in Alpha Camp.
+This is Anne, working as a project engineer for 2 years. Currently learning software development online. Here are some of my practicing works.
+
 ### Goal in 2023
 ---
 ⚡Being a Back-End Developer
+
+### Skills at programming...
+- Python, Matlab, Fortran, NCL
+- JavaScript, css, HTML, Mode.js
+- Database and SQL
+- Flask, Express.js
 
 <!--
 **cayangtuu/cayangtuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
