@@ -1,10 +1,10 @@
 ### Hi there 👋
-This is Anne, working as a project engineer for 2 years. Currently learning software development online. Here are some of my practicing works.
+This is Anne, working as a project engineer for 3 years. Currently learning software development online. Here are some of my practicing works.
 
 ### Skills at programming...
 - Python, Matlab, Fortran, NCL
-- JavaScript, css, HTML, Mode.js
-- Database and SQL
+- JavaScript, css, HTML, Node.js
+- Database and MySQL
 - Flask, Express.js
 
 ### Goal in 2023
