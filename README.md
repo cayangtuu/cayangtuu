@@ -1,15 +1,19 @@
 ### Hi there 👋
-This is Anne, working as a project engineer for 3 years. Currently learning software development online. Here are some of my practicing works.
+Welcome,   
+This is Doranne, working as an engineer for 3 years.   
+Completed of half year ***Full Stack Web Development Program (specialize in Back-end course)***.   
+Here are some of my practicing works.
 
 ### Skills at programming...
-- Python, Matlab, Fortran, NCL
-- JavaScript, css, HTML, Node.js
-- Database and MySQL
-- Flask, Express.js
+- Python, Flask, conda 
+- Node.js, Express.js, JavaScript, HTML, CSS
+- Linux, shell, crontab
+- RDBMS(ex.MySQL),NoSQL(ex.MongoDB)
+- Matlab, Fortran, NCL
 
 ### Goal in 2023
 ---
-⚡Being a Back-End Developer
+⚡Being a Back-end Developer
 
 <!--
 **cayangtuu/cayangtuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
